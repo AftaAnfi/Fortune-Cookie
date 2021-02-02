@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\bin\Debug\FortuneCookie.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\bin\Debug\FortuneCookie.exe
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\bin\Debug\FortuneCookie.pdb
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\bin\Debug\FortuneCookie.xml
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.exe
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.xml
+C:\Users\aftanom\Documents\GitHubRepos\FortuneCookie\Fortune-Cookie\FortuneCookie\obj\Debug\FortuneCookie.pdb
